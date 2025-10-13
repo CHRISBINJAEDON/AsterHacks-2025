@@ -65,3 +65,20 @@ We are building toward a **Smart Wildlife Conflict Management System** with:
 ---
 
 ## 📦 Repository Structure
+
+---
+
+## 📽️ Demo Video & Submission
+
+Watch our AsterHacks 2025 demo: [YouTube link or placeholder]  
+Learn more: [https://asterstech.com/asterhacks](https://asterstech.com/asterhacks)
+
+---
+
+## 🤝 License & Contribution
+
+Open-source under MIT License.  
+We welcome feedback, collaboration, and community deployment ideas.
+
+---
+
