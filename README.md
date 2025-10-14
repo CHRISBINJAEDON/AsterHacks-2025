@@ -72,14 +72,7 @@ We are building toward a **Smart Wildlife Conflict Management System** with:
 
 Watch our project in action:
 
-- [🔗 Demo Video 1 – Smart Chrome AI Hub Overview](https://youtu.be/iR4TMMGe26w)
-- [🔗 Demo Video 2 – Feature Walkthrough & Use Cases](https://youtu.be/R1WqKWF4X84)
 
-You can also preview them below:
-
-[![Demo Video 1](https://img.youtube.com/vi/iR4TMMGe26w/0.jpg)](https://youtu.be/iR4TMMGe26w)
-[![Demo Video 2](https://img.youtube.com/vi/R1WqKWF4X84/0.jpg)](https://youtu.be/R1WqKWF4X84)
----
 
 ## 🤝 License & Contribution
 
