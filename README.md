@@ -71,7 +71,9 @@ We are building toward a **Smart Wildlife Conflict Management System** with:
 ## 🎥 Demo Videos
 
 Watch our project in action:
-
+https://youtu.be/7do9IEBHcwQ
+https://youtu.be/j3lXH12fNAg
+https://youtu.be/cj2eh-U90Mg
 
 
 ## 🤝 License & Contribution
